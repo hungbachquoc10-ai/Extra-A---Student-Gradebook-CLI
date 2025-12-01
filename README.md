@@ -1,4 +1,4 @@
-+ Student Gradebook CLI
++ Student Gradebook CLI:
 A command-line Python application for managing student courses and calculating weighted GPA.
 This program supports adding, updating, deleting, and viewing courses, as well as computing both overall GPA and semester-based GPA.
 
@@ -19,10 +19,10 @@ Specific semester
  + Persistent Storage
 All course data is saved in gradebook.json.
 Automatically loads data on program startup.
- - Requirements
+ - Requirements:
 Python 3.12
 
-- How to Run
+- How to Run:
 
 1.Clone or download the project files.
 2. Open a terminal in the project directory.
