@@ -12,16 +12,23 @@ Validates missing fields, invalid grades, and duplicate course codes.
 
 Modify any field of an existing course by entering its course code.
  + Delete a Course:
+
 Remove a course entry from the gradebook.
+
 View Gradebook:
 Displays all stored courses in a clean table format.
 +  GPA Calculation:
+
 Computes weighted GPA across:
+
 All courses :
 Specific semester 
  + Persistent Storage:
+
 All course data is saved in gradebook.json.
+
 Automatically loads data on program startup.
+ 
  - Requirements:
 Python 3.12
 
