@@ -5,6 +5,7 @@ This program supports adding, updating, deleting, and viewing courses, as well a
 -  Main Features:
   + Add a Course
 Enter course code, name, credits, semester, and score.
+
 Validates missing fields, invalid grades, and duplicate course codes.
   +  Update a Course
 Modify any field of an existing course by entering its course code.
