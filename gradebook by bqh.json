@@ -1,0 +1,37 @@
+[
+    {
+        "course_code": "AU004.2",
+        "course_name": "English 1",
+        "credits": 3,
+        "semester": "Fall 2025",
+        "score": 70
+    },
+    {
+        "course_code": "AU005.2",
+        "course_name": "IT",
+        "credits": 2,
+        "semester": "Fall 2025",
+        "score": 90
+    },
+    {
+        "course_code": "AU003.2",
+        "course_name": "English 2",
+        "credits": 3,
+        "semester": "Fall 2025",
+        "score": 80.5
+    },
+    {
+        "course_code": "AU001.2",
+        "course_name": "Globalization",
+        "credits": 2,
+        "semester": "Fall 2025",
+        "score": 78
+    },
+    {
+        "course_code": "AU001.2",
+        "course_name": "Global",
+        "credits": 3,
+        "semester": "Fall 2025",
+        "score": 80
+    }
+]
