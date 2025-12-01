@@ -23,6 +23,7 @@ Automatically loads data on program startup.
 Python 3.12
 
 - How to Run
+
 1.Clone or download the project files.
 2. Open a terminal in the project directory.
 3. Run:
