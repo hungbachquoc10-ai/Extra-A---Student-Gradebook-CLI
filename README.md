@@ -3,21 +3,23 @@ A command-line Python application for managing student courses and calculating w
 This program supports adding, updating, deleting, and viewing courses, as well as computing both overall GPA and semester-based GPA.
 
 -  Main Features:
-  + Add a Course
+  + Add a Course:
+
 Enter course code, name, credits, semester, and score.
 
 Validates missing fields, invalid grades, and duplicate course codes.
-  +  Update a Course
+  +  Update a Course:
+
 Modify any field of an existing course by entering its course code.
- + Delete a Course
+ + Delete a Course:
 Remove a course entry from the gradebook.
-View Gradebook
+View Gradebook:
 Displays all stored courses in a clean table format.
-+  GPA Calculation
++  GPA Calculation:
 Computes weighted GPA across:
-All courses 
+All courses :
 Specific semester 
- + Persistent Storage
+ + Persistent Storage:
 All course data is saved in gradebook.json.
 Automatically loads data on program startup.
  - Requirements:
